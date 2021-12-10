@@ -1,6 +1,6 @@
 ### Oi! Meu nome é Larissa Nunes 💕
 
-https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg
+
 
 <!--
 **Larissa-Nunes/Larissa-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
